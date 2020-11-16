@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/greenfox.iml" filepath="$PROJECT_DIR$/greenfox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greenfox-repository.iml" filepath="$PROJECT_DIR$/greenfox-repository.iml" />
     </modules>
   </component>
 </project>
